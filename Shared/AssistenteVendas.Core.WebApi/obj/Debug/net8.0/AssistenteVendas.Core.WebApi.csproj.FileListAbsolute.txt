@@ -1,0 +1,5 @@
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVencas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.csproj.AssemblyReference.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVencas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVencas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.AssemblyInfoInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVencas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.AssemblyInfo.cs
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVencas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.csproj.CoreCompileInputs.cache

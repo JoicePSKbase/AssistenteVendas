@@ -1,0 +1,17 @@
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\bin\Debug\net8.0\AssistenteVendas.Service.deps.json
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\bin\Debug\net8.0\AssistenteVendas.Service.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\bin\Debug\net8.0\AssistenteVendas.Service.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.AssemblyInfoInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.AssemblyInfo.cs
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.csproj.CoreCompileInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\refint\AssistenteVendas.Service.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\ref\AssistenteVendas.Service.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.csproj.AssemblyReference.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\bin\Debug\net8.0\AssistenteVendas.Core.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\bin\Debug\net8.0\AssistenteVendas.Domain.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\bin\Debug\net8.0\AssistenteVendas.Domain.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\bin\Debug\net8.0\AssistenteVendas.Core.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Service\obj\Debug\net8.0\AssistenteVendas.Service.csproj.CopyComplete

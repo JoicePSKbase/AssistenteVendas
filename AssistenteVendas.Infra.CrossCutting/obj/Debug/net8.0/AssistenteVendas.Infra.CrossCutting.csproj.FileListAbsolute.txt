@@ -1,0 +1,15 @@
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\bin\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.deps.json
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\bin\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\bin\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\refint\AssistenteVendas.Infra.CrossCutting.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\ref\AssistenteVendas.Infra.CrossCutting.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\bin\Debug\net8.0\AssistenteVendas.Core.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\bin\Debug\net8.0\AssistenteVendas.Core.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Infra.CrossCutting\obj\Debug\net8.0\AssistenteVendas.Infra.CrossCutting.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.csproj.AssemblyReference.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.AssemblyInfoInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.AssemblyInfo.cs
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\bin\Debug\net8.0\AssistenteVendas.Domain.deps.json
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\bin\Debug\net8.0\AssistenteVendas.Domain.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\bin\Debug\net8.0\AssistenteVendas.Domain.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.csproj.AssemblyReference.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.AssemblyInfoInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.AssemblyInfo.cs
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\refint\AssistenteVendas.Domain.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\ref\AssistenteVendas.Domain.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\bin\Debug\net8.0\AssistenteVendas.Core.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\bin\Debug\net8.0\AssistenteVendas.Core.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Domain\obj\Debug\net8.0\AssistenteVendas.Domain.csproj.CopyComplete

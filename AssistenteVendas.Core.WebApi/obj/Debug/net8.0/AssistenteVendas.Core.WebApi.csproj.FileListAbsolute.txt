@@ -1,0 +1,15 @@
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.AssemblyInfoInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.AssemblyInfo.cs
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.csproj.AssemblyReference.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\bin\Debug\net8.0\AssistenteVendas.Core.WebApi.deps.json
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\bin\Debug\net8.0\AssistenteVendas.Core.WebApi.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\bin\Debug\net8.0\AssistenteVendas.Core.WebApi.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\bin\Debug\net8.0\AssistenteVendas.Core.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\bin\Debug\net8.0\AssistenteVendas.Core.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.csproj.CopyComplete
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\refint\AssistenteVendas.Core.WebApi.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\AssistenteVendas.Core.WebApi.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.WebApi\obj\Debug\net8.0\ref\AssistenteVendas.Core.WebApi.dll

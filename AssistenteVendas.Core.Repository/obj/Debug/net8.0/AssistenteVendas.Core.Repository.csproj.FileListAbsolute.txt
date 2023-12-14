@@ -1,0 +1,17 @@
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.AssemblyInfoInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.AssemblyInfo.cs
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\bin\Debug\net8.0\AssistenteVendas.Core.Repository.deps.json
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\bin\Debug\net8.0\AssistenteVendas.Core.Repository.runtimeconfig.json
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\bin\Debug\net8.0\AssistenteVendas.Core.Repository.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\bin\Debug\net8.0\AssistenteVendas.Core.Repository.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\bin\Debug\net8.0\AssistenteVendas.Core.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\bin\Debug\net8.0\AssistenteVendas.Core.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.csproj.AssemblyReference.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.csproj.CopyComplete
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\refint\AssistenteVendas.Core.Repository.dll
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.pdb
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\AssistenteVendas.Core.Repository.genruntimeconfig.cache
+C:\Users\Joice\source\repos\AssistenteVendas\AssistenteVendas.Core.Repository\obj\Debug\net8.0\ref\AssistenteVendas.Core.Repository.dll
